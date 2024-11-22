@@ -1,6 +1,5 @@
 #1 They don't return anything
 #no return type, no parameter/argument
-from Nov5.ex_19112024_Functions.Function_Input_4 import say_hello
 
 
 def greet():
